@@ -1,7 +1,7 @@
 .tracker{
     font-size: 20px;
     border-collapse:collapse;
-    width: 1350px;
+    min-width: 100%;
 }
 
 .tracker,
