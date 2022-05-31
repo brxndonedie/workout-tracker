@@ -3,6 +3,7 @@
     border-collapse:collapse;
     min-width: 100%;
     min-height: auto;
+    padding: 2em;
 }
 
 .tracker,
