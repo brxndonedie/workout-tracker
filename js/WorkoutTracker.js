@@ -66,7 +66,7 @@ export default class WorkoutTracker {
         </td>
         <td>
             <input type="number" class="tracker__duration">
-            <span class="tracker__text">minutes</span>
+            <span class="tracker__text">Minutes</span>
         </td>
         <td>
             <button type="button" class="tracker__delete">&times;</button>
